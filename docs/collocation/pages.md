@@ -6,14 +6,7 @@
 
 |属性|类型|必填|描述|平台兼容|
 |:-|:-|:-|:-|:-|
-|[globalStyle](/collocation/pages?id=globalstyle)|Object|否|设置默认页面的窗口表现||
-|[pages](/collocation/pages?id=pages)|Object Array|是|设置页面路径及窗口表现||
-|[easycom](/collocation/pages?id=easycom)|Object|否|组件自动引入规则|2.5.5+|
-|[tabBar](/collocation/pages?id=tabbar)|Object|否|设置底部 tab 的表现||
-|[condition](/collocation/pages?id=condition)|Object|否|启动模式配置||
-|[subPackages](/collocation/pages?id=subPackages)|Object Array|否|分包加载配置||
-|[preloadRule](/collocation/pages?id=preloadrule)|Object|否|分包预下载规则|微信小程序|
-|[workers](https://developers.weixin.qq.com/miniprogram/dev/framework/workers.html)|String|否|```Worker``` 代码放置的目录|微信小程序|
+
 
 以下是一个包含了所有配置选项的 `pages.json` ：
 
